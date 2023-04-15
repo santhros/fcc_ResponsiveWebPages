@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.image-tribute {
+  width: 200px;
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+body {
+  margin: 0;
+}
